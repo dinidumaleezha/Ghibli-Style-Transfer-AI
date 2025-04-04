@@ -1,33 +1,26 @@
 # 🌸 Ghibli Style Image Converter
 
-Transform your photos into dreamy Ghibli-style artwork using TensorFlow and a pre-trained neural style transfer model from TensorFlow Hub.
+Transform your ordinary photos into magical, Studio Ghibli-inspired masterpieces using TensorFlow and Neural Style Transfer.  
+Powered by [Google Magenta’s](https://magenta.tensorflow.org/) pretrained deep learning model.
 
 <p align="center">
-  <img src="results/output_ghibli_style.png" alt="Ghibli Stylized Output" width="600"/>
+  <img src="results/output_ghibli_style.png" alt="Stylized Image" width="600"/>
 </p>
 
 ---
 
-## 📦 Features
+## ✨ Features
 
-- 🧠 Uses pre-trained model from [TensorFlow Hub](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2)
-- 🎨 Converts any photo into a Studio Ghibli-inspired stylized image
-- 📐 Maintains original resolution and adds slight sharpening for clarity
-- 🔁 Exports the model to TensorFlow Lite format
+- 🎨 Ghibli-style photo transformation
+- 🚀 Fast, high-quality neural style transfer using TensorFlow Hub
+- 📐 Maintains original resolution and adds optional sharpening
+- 📱 Exports a TensorFlow Lite model for mobile/embedded devices
 
 ---
 
-## 🚀 Getting Started
+## 🛠️ Requirements
 
-### 🔧 Requirements
-
-- Python 3.8+
-- TensorFlow
-- TensorFlow Hub
-- Pillow
-- NumPy
-
-Install dependencies:
+Install dependencies with:
 
 ```bash
-pip install tensorflow tensorflow-hub pillow numpy
+pip install -r requirements.txt
