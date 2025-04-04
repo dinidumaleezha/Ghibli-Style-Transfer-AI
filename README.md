@@ -6,6 +6,9 @@ Powered by deep learning and TensorFlow Lite export support.
 <p align="center">
   <img src="results/output_ghibli_style.png" alt="Stylized Image" width="600"/>
 </p>
+<p align="center">
+  <img src="results/output_ghibli_style2.png" alt="Stylized Image" width="600"/>
+</p>
 
 ---
 
@@ -25,9 +28,22 @@ Whether you're an anime fan or just love creative photo filters, this tool bring
 
 ---
 
+### 🔧 Requirements
+
+- Python 3.8+
+- TensorFlow
+- TensorFlow Hub
+- Pillow
+- NumPy
+
+---
+
 ## 🔧 Installation
 
 ### 1. Clone the repository
 ```bash
-git clone https://git@github.com:dinidumaleezha/StyleTransfer-Ghibli.git
+git clone https://github.com/dinidumaleezha/ghibli-style-transfer.git
+
 cd ghibli-style-transfer
+
+python style_transfer.py
