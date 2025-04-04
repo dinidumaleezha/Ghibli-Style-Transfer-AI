@@ -25,6 +25,16 @@ Whether you're an anime fan or just love creative photo filters, this tool bring
 
 ---
 
+### 🔧 Requirements
+
+- Python 3.8+
+- TensorFlow
+- TensorFlow Hub
+- Pillow
+- NumPy
+
+---
+
 ## 🔧 Installation
 
 ### 1. Clone the repository
@@ -32,3 +42,5 @@ Whether you're an anime fan or just love creative photo filters, this tool bring
 git clone https://github.com/dinidumaleezha/ghibli-style-transfer.git
 
 cd ghibli-style-transfer
+
+python style_transfer.py
