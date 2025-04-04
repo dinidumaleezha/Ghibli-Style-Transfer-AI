@@ -29,5 +29,6 @@ Whether you're an anime fan or just love creative photo filters, this tool bring
 
 ### 1. Clone the repository
 ```bash
-git clone https://git@github.com:dinidumaleezha/StyleTransfer-Ghibli.git
+git clone https://github.com/dinidumaleezha/ghibli-style-transfer.git
+
 cd ghibli-style-transfer
