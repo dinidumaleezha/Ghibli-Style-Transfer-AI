@@ -47,3 +47,11 @@ git clone https://github.com/dinidumaleezha/ghibli-style-transfer.git
 cd ghibli-style-transfer
 
 python style_transfer.py
+```
+---
+
+## 📧 Contact Us
+
+For any inquiries or issues, feel free to contact us:
+
+- 📧 Email: boommusic950@gmail.com
