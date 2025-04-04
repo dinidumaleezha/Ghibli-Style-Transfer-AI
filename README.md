@@ -1,26 +1,33 @@
-# 🌸 Ghibli Style Image Converter
+# 🎨 Ghibli Style Transfer AI
 
-Transform your ordinary photos into magical, Studio Ghibli-inspired masterpieces using TensorFlow and Neural Style Transfer.  
-Powered by [Google Magenta’s](https://magenta.tensorflow.org/) pretrained deep learning model.
+Transform your photos into magical **Studio Ghibli-style artwork** using a pre-trained TensorFlow Hub model.  
+Powered by deep learning and TensorFlow Lite export support.
 
-<p align="center">
-  <img src="results/output_ghibli_style.png" alt="Stylized Image" width="600"/>
-</p>
+![Ghibli Sample](https://your-image-link-here.com/sample.jpg) <!-- Add your demo output image here -->
 
 ---
 
-## ✨ Features
+## 🧠 About This Project
 
-- 🎨 Ghibli-style photo transformation
-- 🚀 Fast, high-quality neural style transfer using TensorFlow Hub
-- 📐 Maintains original resolution and adds optional sharpening
-- 📱 Exports a TensorFlow Lite model for mobile/embedded devices
+This project uses **arbitrary image stylization** from TensorFlow Hub to apply Ghibli-style art to regular photos.  
+Whether you're an anime fan or just love creative photo filters, this tool brings fantasy into reality. 🌸✨
+
+> **Sinhala**: මෙය ඔබගේ සාමාන්‍ය ඡායාරූප Ghibli-style චිත්‍රවලට පරිවර්තනය කරන AI මෙවලමකි. TensorFlow භාවිතා කරලා deep learning මාදිලි වලින් බලපොරොත්තු වුණ තත්වයකි.
 
 ---
 
-## 🛠️ Requirements
+## 📦 Features
 
-Install dependencies with:
+- ✅ Apply Ghibli-style transfer to any image
+- ✅ Uses TensorFlow Hub pre-trained models
+- ✅ High-quality output with sharpening
+- ✅ Export to TFLite format for mobile integration
 
-```bash
-pip install -r requirements.txt
+---
+
+## 🔧 Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/ghibli-style-transfer.git
+   cd ghibli-style-transfer
