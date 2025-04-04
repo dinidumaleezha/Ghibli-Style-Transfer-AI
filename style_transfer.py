@@ -73,7 +73,7 @@ def export_tflite_model(model_path="model/ghibli_style_model.tflite"):
 
 # Run
 if __name__ == "__main__":
-    content_image_path = "inputs/image/v1.jpg"
+    content_image_path = "inputs/image/v4.jpg"
     style_image_path = "style_image/ghibli_style_reference.png"  # Use uploaded reference image
 
     apply_style_transfer(content_image_path, style_image_path)
