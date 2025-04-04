@@ -54,4 +54,4 @@ python style_transfer.py
 
 For any inquiries or issues, feel free to contact us:
 
-- 📧 Email: boommusic950@gmail.com
+- 📧 Email: maleezha1975@gmail.com
