@@ -3,7 +3,9 @@
 Transform your photos into magical **Studio Ghibli-style artwork** using a pre-trained TensorFlow Hub model.  
 Powered by deep learning and TensorFlow Lite export support.
 
-![Ghibli Sample](https://your-image-link-here.com/sample.jpg) <!-- 🔄 Replace with your sample output image URL -->
+<p align="center">
+  <img src="results/output_ghibli_style.png" alt="Stylized Image" width="600"/>
+</p>
 
 ---
 
