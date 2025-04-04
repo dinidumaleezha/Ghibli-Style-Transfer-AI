@@ -6,6 +6,9 @@ Powered by deep learning and TensorFlow Lite export support.
 <p align="center">
   <img src="results/output_ghibli_style.png" alt="Stylized Image" width="600"/>
 </p>
+<p align="center">
+  <img src="results/output_ghibli_style2.png" alt="Stylized Image" width="600"/>
+</p>
 
 ---
 
